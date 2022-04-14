@@ -1,2 +1,2 @@
-# HA-Kubernetes-Template
-Tmplate for deploying Kubernetes into a highly available environment.
+# Ansible-Template
+Tmplate for deploying Ansible modules into a highly available environment.
